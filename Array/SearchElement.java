@@ -26,8 +26,5 @@ int num=sc.nextInt();
     }
 
     }
-
-
-
 }
 }
