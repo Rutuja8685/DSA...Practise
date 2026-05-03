@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "subarray",
+            "request": "launch",
+            "mainClass": "Array.subarray",
+            "projectName": "DSA...Practise_d80a3def"
+        },
+        {
+            "type": "java",
+            "name": "Pairarray",
+            "request": "launch",
+            "mainClass": "Array.Pairarray",
+            "projectName": "DSA...Practise_d80a3def"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "Array.ReverseArray",
+            "projectName": "DSA...Practise_d80a3def"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
