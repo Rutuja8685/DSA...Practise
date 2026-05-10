@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TrappingWater",
+            "request": "launch",
+            "mainClass": "Array.TrappingWater",
+            "projectName": "DSA...Practise_d80a3def"
+        },
+        {
+            "type": "java",
             "name": "MaxSubArraySum",
             "request": "launch",
             "mainClass": "Array.MaxSubArraySum",
